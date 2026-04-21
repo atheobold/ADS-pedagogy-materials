@@ -1,0 +1,7 @@
+---
+title: "Comics"
+format: html
+---
+
+<!-- This is the homepage for displaying the comics you made and connecting them with  -->
+<!-- the research! -->

@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs  
+  render: 
+    - "*.qmd"
+
+website:
+  title: "Groupworthy Introductory Data Science"
+  #site-url: "atheobold.github.io/data-feminism/"
+
+  navbar:
+    title: "Groupworthy Introductory Data Science"
+    logo: "images/one-programmer.png"
+    logo-alt: ""
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: protocols.qmd
+        text: Collaborative Protocols
+      - href: research.qmd
+        text: Research
+      - href: resources.qmd
+        text: Additional Resources
+        
+  page-footer: |
+    <div style="text-align:center; font-size:0.75em;">
+    This material is based on work supported by the National Science Foundation Grant Numbers <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2334988">2334988</a> and <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2334989">2334989</a>.
+    </div>
+    
+  favicon: "images/one-programmer.png"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
