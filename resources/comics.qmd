@@ -4,4 +4,9 @@ format: html
 ---
 
 <!-- This is the homepage for displaying the comics you made and connecting them with  -->
+
 <!-- the research! -->
+
+## Header for Comic
+
+![](comics/ansel_wren_good_interaction.png)
