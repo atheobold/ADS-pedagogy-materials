@@ -9,4 +9,8 @@ format: html
 
 ## Header for Comic
 
-![](comics/ansel_wren_good_interaction.png)
+![](comics/ansel_wren_good_edit.jpg)
+
+![](comics/camila_uncertain_edit.jpg){fig-align="center" width="1250"}
+
+![](comics/dr.t_wren_edit.jpg)
