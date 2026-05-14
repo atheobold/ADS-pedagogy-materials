@@ -7,9 +7,11 @@ format: html
 
 <!-- the research! -->
 
-## Header for Comic
+## Ansel & Wren: A Good Interaction
 
 ![](comics/ansel_wren_good_edit.jpg)
+
+## Camilla & Elliott: Self-Doubt
 
 ![](comics/camila_uncertain_edit.jpg){fig-align="center" width="1250"}
 
