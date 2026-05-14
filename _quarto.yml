@@ -23,6 +23,17 @@ website:
       - href: resources.qmd
         text: Additional Resources
         
+  sidebar:
+    - id: resources
+      title: "Additional Resources"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - href: resources.qmd
+        - text: Comics About Collaborations
+          href: resources/comics.qmd
+  
   page-footer: |
     <div style="text-align:center; font-size:0.75em;">
     This material is based on work supported by the National Science Foundation Grant Numbers <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2334988">2334988</a> and <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2334989">2334989</a>.
