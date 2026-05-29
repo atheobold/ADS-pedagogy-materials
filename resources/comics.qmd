@@ -7,7 +7,7 @@ format: html
 
 <!-- the research! -->
 
-## Ansel & Wren: A Good Interaction
+## Ansel & Wren: *Reciprocal Praise*
 
 ![](comics/ansel_wren_good_edit.jpg)
 
