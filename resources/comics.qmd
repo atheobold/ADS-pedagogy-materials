@@ -25,7 +25,7 @@ In this interaction, Camila (red) and Elliot (green) are working together on a f
 
 While stuck on a question, Ansel (orange) and Wren (yellow) decided to ask Dr. T (purple) if their method was sufficient, with Wren being the one to say, *“We did this instead of using an if/else function, is this ok?”* Dr. T directly addresses her, saying, *“Well, I did ask for you to not use extra resources.”* Although their code was a mutual effort, Wren seemed to bear the brunt of their mistake. As a result, Wren might have been put in a position of blame for not following the instructions, which may shape her future instances when seeking an instructor’s help. Wren is seen shrinking in the last panel to convey the negative impact she felt after this interaction with Dr. T. This comic illustrates how student-instructor interactions can worsen learning experiences within the classroom and how language plays a role in maintaining equity. 
 
-## Ansel & Griffin: *Intentionality vs. Impact* 
+## Ansel & Griffin: *Intention vs. Impact* 
 
 ![](/images/ansel-griffin.jpg){fig-align="center"}
 
